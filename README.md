@@ -3,7 +3,7 @@
 DevOps & Cloud Engineer based in Pune, India. I like building reliable infrastructure and automating things that shouldn't need humans.
 
 - 🔧 I work with AWS, Kubernetes, Docker, Terraform, and whatever else gets the job done.
-- 🌱 Currently diving deeper into Go and platform engineering
+- 🌱 Currently diving deeper into Go and platform engineering.
 - 💬 Happy to collaborate on DevOps tooling, CI/CD, or anything infrastructure-related.
 - 📫 Reach me at arunesh.devops@gmail.com
 - 🐦 [@DevAruneshOps](https://x.com/DevAruneshOps)
