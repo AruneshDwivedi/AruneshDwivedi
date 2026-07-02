@@ -30,7 +30,7 @@ DevOps & Cloud Engineer based in Pune, India. I like building reliable infrastru
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/AruneshDwivedi?style=flat-square&label=Stars&color=yellow" alt="Stars"/>
@@ -65,7 +65,7 @@ DevOps & Cloud Engineer based in Pune, India. I like building reliable infrastru
 
 </div>
 
-# 🎯 CNCF Focus Areas
+# 🎯 CNCF Focus Areas:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Envoy%20Gateway-000000?style=flat-square&logo=envoyproxy&logoColor=white" alt="Envoy Gateway"/>
@@ -78,7 +78,7 @@ DevOps & Cloud Engineer based in Pune, India. I like building reliable infrastru
 
 ---
 
-### 🔥 Recent Activity
+### 🔥 Recent Activity:
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
